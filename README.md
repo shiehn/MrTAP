@@ -1,2 +1,2 @@
 # MRAP
-MRAP - Music Runtime Assembly Protocol
+MrTAP - Music Runtime Assembly Protocol
