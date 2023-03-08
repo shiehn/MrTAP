@@ -1,9 +1,3 @@
-# MrTAP
-MrTAP - Music Runtime Assembly Protocol
-
-MrTAP is an HTTP Rest API exposing AI & procedurally generated Audio Loops.  All audio loops are royalty free and can be used in any commercial or non-commercial project.  For more details please visit: https://signalsandsorcery.ai
-
-```
 swagger: '2.0'
 info:
   title: MrTAP API
@@ -148,6 +142,3 @@ paths:
         - options
     parameters: []
 definitions: {}
-
-```
-
